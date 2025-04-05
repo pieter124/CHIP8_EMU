@@ -1,2 +1,2 @@
-# PGBA_EMU
-Pieter's Game Boy Advance Emulator
+# PBA_EMU
+Player Boy Advance
