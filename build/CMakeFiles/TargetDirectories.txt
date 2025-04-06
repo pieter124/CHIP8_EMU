@@ -1,0 +1,3 @@
+/home/pieter124/Desktop/CHIP-8_EMU/build/CMakeFiles/main.dir
+/home/pieter124/Desktop/CHIP-8_EMU/build/CMakeFiles/edit_cache.dir
+/home/pieter124/Desktop/CHIP-8_EMU/build/CMakeFiles/rebuild_cache.dir
